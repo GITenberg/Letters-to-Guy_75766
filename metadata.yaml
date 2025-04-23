@@ -1,0 +1,33 @@
+_repo: Letters-to-Guy_75766
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Barker, Lady (Mary Anne)
+    aliases:
+    - Barker, Mary Anne, Lady
+    - Broome, Lady (Mary Anne)
+    - Broome, Mary Anne Stewart Barker, Lady
+    - Stewart, Mary Anne
+    birthdate: 1831
+    deathdate: 1911
+    gutenberg_agent_id: '1905'
+    url: http://www.gutenberg.org/2009/agents/1905
+    wikipedia: https://en.wikipedia.org/wiki/Mary_Anne_Barker
+description: ''
+gutenberg_issued: '2025-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75766'
+language: en
+pgterms:marc905: 20230322001358barker
+pgterms:marc906: '1885'
+pgterms:marc907: GB
+production_note: MWS and the Online Distributed Proofreading Team at https://www.pgdp.net
+publication_note: '  $aLondon :$bMacmillan and Co., $c1885.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Letters to Guy
+url: http://www.gutenberg.org/ebooks/75766
